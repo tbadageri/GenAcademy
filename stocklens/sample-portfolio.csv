@@ -1,0 +1,6 @@
+symbol,name,sector,shares,avg_cost,price
+AAPL,Apple,Technology,30,150,185
+MSFT,Microsoft,Technology,18,280,340
+V,Visa,Financials,20,220,245
+JNJ,Johnson & Johnson,Healthcare,25,165,155
+XOM,Exxon Mobil,Energy,35,95,110
